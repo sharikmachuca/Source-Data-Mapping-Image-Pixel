@@ -9,6 +9,7 @@ Este tipo de ejercicios permite entender cómo los datos pueden capturarse, tran
 **Objetivo:** ilustrar cómo una fuente de datos visual (imagen) puede convertirse en datos estructurados y almacenarse en un repositorio que permita su posterior procesamiento y reconstrucción.
 
 **Proceso:** el flujo del proyecto se desarrolla en tres iteraciones explicadas a continuación.
+
 _Iteración 1_
 - Lectura de la imagen.
 - Extracción de píxeles.
