@@ -1,6 +1,4 @@
 # Source-Data-Mapping-Image-Pixel
-El repositorio presenta un proceso para transformar una imagen en datos estructurados. Inicialmente, se extraen los valores RGB de cada píxel y se organizan en una matriz en Excel. Luego, estos datos pueden utilizarse para reconstruir la imagen mediante celdas coloreadas, ilustrando la conversión de datos visuales en información estructurada.
-
 
 **Descripción:** el repositorio presenta una actividad académica orientada a comprender cómo los sistemas de información pueden transformar datos provenientes de fuentes no estructuradas en datos organizados. A partir de una imagen, se realiza un ejercicio de conversión y almacenamiento de información visual en un formato estructurado que permite su posterior lectura y procesamiento.
 
